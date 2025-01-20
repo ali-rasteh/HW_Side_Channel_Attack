@@ -63,7 +63,7 @@ Side-channel attacks and fault injection techniques are critical topics in hardw
    Follow the official [ChipWhisperer installation guide](https://chipwhisperer.readthedocs.io/en/latest/index.html#installation).
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/hardware-security-hw4.git
+   git clone https://github.com/ali-rasteh/HW_Side_Channel_Attack.git
    ```
 3. **Install dependencies**:
    Navigate to the repository directory and install required Python packages:
