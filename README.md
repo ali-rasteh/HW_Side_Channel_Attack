@@ -85,11 +85,10 @@ Side-channel attacks and fault injection techniques are critical topics in hardw
 - **Notebooks**:
   - `DES_Fault_Attack.ipynb`
   - `AES_CPA_Attack.ipynb`
-- **Video Explanation**:
-  - Link: [Google Drive Video](#)
+- **Video Explanation**
 
 ---
 
 ## Contributors
-- Ali Rasteh 
-  NYU Tandon School of Engineering  
+- Ali Rasteh
+- NYU Tandon School of Engineering  
